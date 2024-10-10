@@ -7,7 +7,7 @@ This is the template of the **Gerold WordPress Theme**, and I have redeveloped i
 **Gerold** is specifically designed and developed for **Personal Portfolio Websites**. The template offers a unique, modern, and professional design, ideal for designers, developers, freelancers, and digital service providers looking to showcase their work and skills.
 
 ### Key Features:
-- **3 Unique Home Pages** with sticky navigation menu and hero sections for quick and easy website development.
+- **1 Unique Home Pages** with sticky navigation menu and hero sections for quick and easy website development.
 - **Portfolio and Services Sections** to effectively display your digital services and projects to potential clients.
 - Includes sections for **Resume, Testimonials, Skills, Blog**, and **Contact**, making it easy to present all essential information.
 - **Speed-optimized, cross-browser compatible**, and **SEO-friendly**.
